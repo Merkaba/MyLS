@@ -1,0 +1,92 @@
+drwx------ 2 mjuneja ugrad 2048 Jan 06 14:48 lab1
+    -rwx------ 1 mjuneja ugrad 7680 Jan 06 14:48 a.out
+    -rw------- 1 mjuneja ugrad 84 Jan 06 14:47 main.c
+    -rw------- 1 mjuneja ugrad 12288 Jan 06 14:37 .main.c.swo
+    -rw------- 1 mjuneja ugrad 12288 Jan 06 14:37 .main.c.swn
+drwx------ 2 mjuneja ugrad 2048 Jan 17 07:53 hw1
+    -rw------- 1 mjuneja ugrad 12288 Jan 17 08:32 .main.c.swp
+    -rw------- 1 mjuneja ugrad 16384 Jan 17 05:39 .main.c.swo
+    -rw------- 1 mjuneja ugrad 3564 Jan 17 07:53 main.c
+    -rw------- 1 mjuneja ugrad 16384 Jan 17 08:10 .main.c.swn
+    -rwx------ 1 mjuneja ugrad 12797 Jan 17 05:46 outputfile
+    -rwx------ 1 mjuneja ugrad 16821 Jan 17 07:37 a.out
+    -rw------- 1 mjuneja ugrad 323584 Jan 17 06:00 core.18462
+    -rw------- 1 mjuneja ugrad 2048000 Jan 17 06:02 core.19016
+    -rw------- 1 mjuneja ugrad 323584 Jan 17 07:33 core.24374
+drwx------ 2 mjuneja ugrad 2048 Jan 20 16:14 lab2
+    -rwx------ 1 mjuneja ugrad 7257 Jan 20 15:59 a.out
+    -rw------- 1 mjuneja ugrad 956 Jan 20 15:59 problem3.c
+    -rw------- 1 mjuneja ugrad 320 Jan 20 15:38 main.c
+drwx------ 3 mjuneja ugrad 2048 Jan 29 15:49 lab3
+    -rw-r--r-- 1 mjuneja ugrad 1393 Jan 29 15:01 lab3.c
+    -rwx------ 1 mjuneja ugrad 8264 Jan 29 15:01 a.out
+    drwx------ 2 mjuneja ugrad 2048 Jan 29 01:57 test
+        -rw------- 1 mjuneja ugrad 14 Jan 29 01:57 test.c
+    -rw------- 1 mjuneja ugrad 1636 Jan 29 14:47 lab3c.c
+drwx------ 2 mjuneja ugrad 2048 Jan 29 01:10 hw2
+    -rw------- 1 mjuneja ugrad 15600 Jan 24 07:09 strlib.o
+    -rw------- 1 mjuneja ugrad 28328 Jan 24 07:13 strtest.o
+    -rw-r--r-- 1 mjuneja ugrad 4246 Jan 24 07:09 strlib.c
+    -rw-r--r-- 1 mjuneja ugrad 1420 Jan 21 23:27 strlib.h
+    -rw-r--r-- 1 mjuneja ugrad 9396 Jan 24 07:13 strtest.c
+    -rw-r--r-- 1 mjuneja ugrad 187 Jan 21 23:38 Makefile
+    -rw------- 1 mjuneja ugrad 84 Jan 21 23:28 main.c
+    -rwx------ 1 mjuneja ugrad 29741 Jan 24 07:13 strtest
+    -rw------- 1 mjuneja ugrad 1974 Jan 24 07:11 parser.c
+    -rwx------ 1 mjuneja ugrad 8395 Jan 24 07:11 a.out
+    -rw-r--r-- 1 mjuneja ugrad 133 Jan 23 17:11 sampein.c
+    -rw------- 1 mjuneja ugrad 142 Jan 24 07:11 output.txt
+drwxr-xr-x 2 mjuneja ugrad 2048 Jan 29 17:45 hw3
+    -rw-r--r-- 1 mjuneja ugrad 3631 Jan 29 17:36 my_ls.c
+    -rw-r--r-- 1 mjuneja ugrad 73 Jan 29 17:26 Makefile
+    -rwx------ 1 mjuneja ugrad 10420 Jan 29 16:24 a.out
+    -rw------- 1 mjuneja ugrad 0 Jan 29 17:45 temp.txt
+    -rw-r--r-- 1 mjuneja ugrad 20480 Jan 29 17:37 .my_ls.c.swp
+    -rwx------ 1 mjuneja ugrad 10452 Jan 29 17:36 my_ls
+    -rw------- 1 mjuneja ugrad 14720 Jan 29 17:36 my_ls.o
+drwx------ 2 mjuneja ugrad 2048 Jan 06 14:48 lab1
+    -rwx------ 1 mjuneja ugrad 7680 Jan 06 14:48 a.out
+    -rw------- 1 mjuneja ugrad 84 Jan 06 14:47 main.c
+    -rw------- 1 mjuneja ugrad 12288 Jan 06 14:37 .main.c.swo
+    -rw------- 1 mjuneja ugrad 12288 Jan 06 14:37 .main.c.swn
+drwx------ 2 mjuneja ugrad 2048 Jan 17 07:53 hw1
+    -rw------- 1 mjuneja ugrad 12288 Jan 17 08:32 .main.c.swp
+    -rw------- 1 mjuneja ugrad 16384 Jan 17 05:39 .main.c.swo
+    -rw------- 1 mjuneja ugrad 3564 Jan 17 07:53 main.c
+    -rw------- 1 mjuneja ugrad 16384 Jan 17 08:10 .main.c.swn
+    -rwx------ 1 mjuneja ugrad 12797 Jan 17 05:46 outputfile
+    -rwx------ 1 mjuneja ugrad 16821 Jan 17 07:37 a.out
+    -rw------- 1 mjuneja ugrad 323584 Jan 17 06:00 core.18462
+    -rw------- 1 mjuneja ugrad 2048000 Jan 17 06:02 core.19016
+    -rw------- 1 mjuneja ugrad 323584 Jan 17 07:33 core.24374
+drwx------ 2 mjuneja ugrad 2048 Jan 20 16:14 lab2
+    -rwx------ 1 mjuneja ugrad 7257 Jan 20 15:59 a.out
+    -rw------- 1 mjuneja ugrad 956 Jan 20 15:59 problem3.c
+    -rw------- 1 mjuneja ugrad 320 Jan 20 15:38 main.c
+drwx------ 3 mjuneja ugrad 2048 Jan 29 15:49 lab3
+    -rw-r--r-- 1 mjuneja ugrad 1393 Jan 29 15:01 lab3.c
+    -rwx------ 1 mjuneja ugrad 8264 Jan 29 15:01 a.out
+    drwx------ 2 mjuneja ugrad 2048 Jan 29 01:57 test
+        -rw------- 1 mjuneja ugrad 14 Jan 29 01:57 test.c
+    -rw------- 1 mjuneja ugrad 1636 Jan 29 14:47 lab3c.c
+drwx------ 2 mjuneja ugrad 2048 Jan 29 01:10 hw2
+    -rw------- 1 mjuneja ugrad 15600 Jan 24 07:09 strlib.o
+    -rw------- 1 mjuneja ugrad 28328 Jan 24 07:13 strtest.o
+    -rw-r--r-- 1 mjuneja ugrad 4246 Jan 24 07:09 strlib.c
+    -rw-r--r-- 1 mjuneja ugrad 1420 Jan 21 23:27 strlib.h
+    -rw-r--r-- 1 mjuneja ugrad 9396 Jan 24 07:13 strtest.c
+    -rw-r--r-- 1 mjuneja ugrad 187 Jan 21 23:38 Makefile
+    -rw------- 1 mjuneja ugrad 84 Jan 21 23:28 main.c
+    -rwx------ 1 mjuneja ugrad 29741 Jan 24 07:13 strtest
+    -rw------- 1 mjuneja ugrad 1974 Jan 24 07:11 parser.c
+    -rwx------ 1 mjuneja ugrad 8395 Jan 24 07:11 a.out
+    -rw-r--r-- 1 mjuneja ugrad 133 Jan 23 17:11 sampein.c
+    -rw------- 1 mjuneja ugrad 142 Jan 24 07:11 output.txt
+drwxr-xr-x 2 mjuneja ugrad 2048 Jan 29 17:45 hw3
+    -rw-r--r-- 1 mjuneja ugrad 3631 Jan 29 17:36 my_ls.c
+    -rw-r--r-- 1 mjuneja ugrad 73 Jan 29 17:26 Makefile
+    -rwx------ 1 mjuneja ugrad 10420 Jan 29 16:24 a.out
+    -rw------- 1 mjuneja ugrad 2619 Jan 29 17:45 temp.txt
+    -rw-r--r-- 1 mjuneja ugrad 20480 Jan 29 17:37 .my_ls.c.swp
+    -rwx------ 1 mjuneja ugrad 10452 Jan 29 17:36 my_ls
+    -rw------- 1 mjuneja ugrad 14720 Jan 29 17:36 my_ls.o
